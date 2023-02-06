@@ -26,5 +26,26 @@
 <img height="40" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
 <img height="40" alt="Discord" src = "https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">
 </p>
+<hr>
+
+
+<h3 align = "center">My Github Highlights 🔥</h3>
+<div align = "center">
+    <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hinagpis-code&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="hinagpis-code" height = "162.5"/></p></div>
+
+<div align = "center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hinagpis-code&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="hinagpis-code" /></p>
+</div>
+
+<!--Streak-->
+<div align = "center">
+<p><img align="center" height = "195.8" src="https://github-readme-streak-stats.herokuapp.com/?user=hinagpis-code&theme=chartreuse-dark&&text_color=9f9f9f&bg_color=151515&hide=html,Tcl" alt="hinagpis-code" />
+</p> </div>
+
 
 <hr>
+
+<h3 align="center"> 
+    Visitor count<br><br>
+    <img src="https://profile-counter.glitch.me/hinagpis-code/count.svg" height="66.5"/>
+</h3>
