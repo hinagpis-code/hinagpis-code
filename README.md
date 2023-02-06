@@ -31,12 +31,11 @@
 
 <h3 align = "center">My Github Highlights 🔥</h3>
 <div align = "center">
-    
 <!--Status-->
     <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hinagpis-code&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="hinagpis-code" height = "162.5"/></p></div>
 
 <div align = "center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hinagpis-code&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="hinagpis-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hinagpis-code&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="hinagpis-code"/></p>
 </div>
 
 <!--Streak-->
