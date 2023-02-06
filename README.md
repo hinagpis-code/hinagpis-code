@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java & Android Studio**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **tiktok.com/@hinagpis.code**
 
 <h3>Tools that I currently use: 🛠️ </h3>
 <p align = "left">
