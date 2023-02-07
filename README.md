@@ -47,6 +47,6 @@
 <hr>
 
 <h3 align="center"> 
-    Visitor count<br><br>
+    Profile Visit Count<br><br>
     <img src="https://profile-counter.glitch.me/hinagpis-code/count.svg" height="66.5"/>
 </h3>
