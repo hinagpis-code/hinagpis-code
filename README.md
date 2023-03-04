@@ -23,7 +23,7 @@
 <p align = "left">
 <img height="60" alt="Eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg">
 <img height="60" alt = "VSC" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-<img height="60" alt="VSC IDE" src="https://assets.stickpng.com/images/58482afbcef1014c0b5e4a21.svg">
+<img height="60" alt="VSC IDE" src="[https://assets.stickpng.com/images/58482afbcef1014c0b5e4a21.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png)">
 <img height="60" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
 <img height="60" alt="Discord" src = "https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">
 </p>
