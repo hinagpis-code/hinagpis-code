@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java & Android Studio**
 
-- 📫 How to reach me <a href = "https://www.tiktok.com/@hinagpis.code">**@hingapis.code**</a>
+- 📫 How to reach me <a href = "https://www.tiktok.com/@hinagpis.code">**@hinagpis.code**</a>
 
 <h3>Tools that I currently use: 🛠️ </h3>
 <p align = "left">
