@@ -39,12 +39,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hinagpis-code&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="hinagpis-code"/></p>
 </div>
 
-<!--Streak-->
+<!--Streak
 <div align = "center">
 <p><img align="center" height = "195.8" src="https://github-readme-streak-stats.herokuapp.com/?user=hinagpis-code&theme=chartreuse-dark&&text_color=9f9f9f&bg_color=151515&hide=html,Tcl" alt="hinagpis-code" />
 </p> </div>
-
-
+-->
 <hr>
 
 <h3 align="center"> 
